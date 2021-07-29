@@ -1,7 +1,7 @@
 #-------------------------------------
 # Ejercicio de usuarios y localidades
 #-------------------------------------
-
+# comentario de prueba
 localidades = {
     "San Fernando": ["Alba Juan"],
 
