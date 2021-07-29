@@ -2,6 +2,7 @@
 # Ejercicio de usuarios y localidades
 #-------------------------------------
 # comentario de prueba
+# comentario de prueba 2
 localidades = {
     "San Fernando": ["Alba Juan"],
 
